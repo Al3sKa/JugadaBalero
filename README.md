@@ -13,6 +13,4 @@ El proyecto se puede abrir con el IDE [IDE Visual Studio](https://visualstudio.m
 
 Pueden usarse únicamente en los IDEs mencionados dentro del cpp "main.cpp".
 
-El proyecto está organizado en el IDE Dev C++ para mantener el funcionamiento de la aplicación como un ejemplo.
-
-[![dev-visual-c-plus-plus-logo-icon-11](https://user-images.githubusercontent.com/68668508/164576562-42e252d5-4018-42aa-aa73-01f71cb55b2f.png)](https://sourceforge.net/projects/orwelldevcpp/)
+![a385d9e61c790dec527060f7190d3165](https://user-images.githubusercontent.com/68668508/164591273-45e3a2b2-31e1-4e51-b8a7-9326814b1c9d.jpg)
