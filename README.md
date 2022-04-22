@@ -1,4 +1,4 @@
-# [JugadaBalero](https://github.com/Al3sKa/JugadaBalero/archive/refs/heads/main.zip)
+# [JugadaBalero](https://github.com/Al3sKa/JugadaBalero/raw/main/Jugada%20Balero/JugadaBalero.exe)
 
 Es necesario tener en cuenta que el codigo **NO ES PARA COPIAR**, éste codigo está diseñado para que tengas una idea de cómo debe de quedar.
 ![SWITCH CASE](https://user-images.githubusercontent.com/68668508/164576394-41ab42dd-ee0f-4c6e-861c-51bf786417a0.png)
