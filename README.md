@@ -7,9 +7,9 @@ Es necesario tener en cuenta que el codigo no es para copiar, éste codigo está
 
 El proyecto se puede abrir con el IDE Dev C++ cuyos archivos:
 
--classes.h
--classes.cpp
--main.cpp
+- classes.h
+- classes.cpp
+- main.cpp
 
 Pueden usarse únicamente en los IDEs mencionados dentro del cpp "main.cpp".
 
