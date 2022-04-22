@@ -11,9 +11,9 @@ El proyecto se puede abrir con el IDE Dev C++ cuyos archivos:
 - classes.cpp
 - main.cpp
 
-Pueden usarse únicamente en los IDEs mencionados dentro del cpp "main.cpp".
-
 ![dev-visual-c-plus-plus-logo-icon-11](https://user-images.githubusercontent.com/68668508/164576562-42e252d5-4018-42aa-aa73-01f71cb55b2f.png)
+
+Pueden usarse únicamente en los IDEs mencionados dentro del cpp "main.cpp".
 
 ## Precauciones
 
